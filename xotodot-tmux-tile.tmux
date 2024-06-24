@@ -1,4 +1,4 @@
-XOTODOT_TMUX_LIGHT="src/xotodot-tmux-tile-status.conf"
+XOTODOT_TMUX_LIGHT="src/xotodot-terminal-tmuxtile-status.conf"
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 main() {

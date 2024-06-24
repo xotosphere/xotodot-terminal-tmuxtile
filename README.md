@@ -1,4 +1,4 @@
-# xotodot-tmux-tile
+# xotodot-terminal-tmuxtile
 
 A clean, light tmux navigation theme that celebrates the lights ! 🔆
 
@@ -6,7 +6,7 @@ A clean, light tmux navigation theme that celebrates the lights ! 🔆
 
 In your `tmux.conf`:
 ```
-set -g @plugin "xotosphere/xotodot-tmux-tile"
+set -g @plugin "xotosphere/xotodot-terminal-tmuxtile"
 ```
 
 ### Snapshots
